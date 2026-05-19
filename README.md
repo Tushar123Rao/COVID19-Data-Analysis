@@ -4,6 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-green)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tableau](https://img.shields.io/badge/Tableau-Public-blue)
 
 # Project Overview
 This project performs a complete **Exploratory Data Analysis (EDA)** 
@@ -46,9 +47,22 @@ WHO Region, Death Rate, Recovery Rate
 -  Top 10 Countries by Death Rate (Bar Chart)
 -  Total Deaths by WHO Region (Bar Chart)
 -  Recovery Rate of Top 20 Countries (Bar Chart)
+
+#Interactive Tableau Dashboard
+🔗 [Click here to view Live COVID-19 Dashboard](https://public.tableau.com/shared/4YS24DBKD)
+
+# Dashboard includes:
+- World Map of COVID-19 Confirmed Cases
+- Top 10 Countries by Confirmed Cases
+- Deaths by WHO Region
+- Confirmed Cases vs Deaths (Scatter Plot)
+- Recovery Rate by WHO Region
+- Interactive Filter — Click any country on map!
+  
+> Click on any country on the World Map to 
+> filter all other charts automatically!
   
 # How to Run
-
 1. Clone the repository
 2. Install required libraries
 3. Open Jupyter Notebook
